@@ -1,6 +1,6 @@
 # Test Browser CSS Compatibility
 
-You can simply connect "https://theyoung.github.io/browser-css-compatible-test/".
+You can simply connect "https://theyoung.github.io/browser-css-compatible-test-react/".
 
 You will see what properties are supported.
 
@@ -11,3 +11,5 @@ You will see what properties are supported.
 ```npm run build```
 
 and open index.html file in docs directory.
+
+# You can build it yourself with "npm" environment.

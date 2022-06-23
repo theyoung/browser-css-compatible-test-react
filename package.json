@@ -27,7 +27,7 @@
     ]
   },
   "browserslist": [
-      "chrome 39"
+      "> 0.5%"
     ]
   
 }
