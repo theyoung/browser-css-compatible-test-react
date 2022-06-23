@@ -11,5 +11,3 @@ You will see what properties are supported.
 ```npm run build```
 
 and open index.html file in docs directory.
-
-# You can build it yourself with "npm" environment.
